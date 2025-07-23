@@ -1,0 +1,6 @@
+ro.display.series=Galaxy Tab A9 
+ro.boot.dynamic_partitions=true
+sys.usb.controller=musb-hdrc
+sys.usb.config=mtp,adb
+ro.product.board=gta9
+ro.board.platform=mt6789
