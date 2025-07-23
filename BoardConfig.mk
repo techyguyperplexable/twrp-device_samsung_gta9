@@ -163,6 +163,7 @@ TW_INCLUDE_NTFS_3G := true
 TW_INCLUDE_REPACKTOOLS := true
 TW_INCLUDE_RESETPROP := true
 TW_INCLUDE_LPTOOLS := true
+TW_INCLUDE_FASTBOOTD := true
 
 # TWRP Modules
 TW_LOAD_VENDOR_MODULES := "$(basename $(notdir $(wildcard $(DEVICE_PATH)/recovery/root/lib/modules/*.ko)))" 
